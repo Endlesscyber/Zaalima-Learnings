@@ -1,2 +1,1 @@
-# Zaalima-Learnings-Project-1
-Project 1 — Basic Vulnerability Assessment for a Small Business Network. Simulate a real-world vulnerability assessment for a small business IT infrastructure. Identify security gaps, prioritize risks, and provide mitigation strategies to improve the overall security posture.
+Zaalima Learnings is a learning-based project designed to simplify complex topics in cybersecurity, networking, and IT domains. It includes hands-on labs, real-world use cases, and beginner-to-advanced level resources to help students and enthusiasts gain practical knowledge and industry-relevant skills.
